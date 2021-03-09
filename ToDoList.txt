@@ -1,0 +1,23 @@
+1. Navigtation Bar
+    -Home
+    -Projects
+        -Highlight Projects
+        -Videos
+    -Contact Form with email and other social media
+2. Home Page
+    - Introduce myself
+    - construct banners
+3. Projects
+    -Nav bar for back to home or other sections.
+    -Highlight projects with stills and Videos
+    -Construct information about each projects
+4. About Me and contact Form
+    -Nav bar for switching between different pages
+    -Background informaiton on myself and my experiance. 
+    -Make a small gif with my picture explode.
+5. Porfolio Item Grid
+    -images
+    -titles
+    -descriptions
+    -animations and Videos
+    -javascript

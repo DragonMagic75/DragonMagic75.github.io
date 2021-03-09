@@ -1,0 +1,58 @@
+.Nav-Wrapper
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 38px;
+
+}
+
+.Left-Side{
+    display: flex;
+}
+.Nav-Wrapper > .Left-Side > div
+{
+    margin-right: 20px;
+    font-size: 0.9em;
+    text-transform: uppercase;
+
+}
+.Nav-Link-Wrapper
+{
+    height: 22px;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.5s;
+
+}
+.Nav-Link-Wrapper a
+{
+    color: #8a8a8a;
+    text-decoration: none;
+    transition: color 0.5s;
+
+}
+.Nav-Link-Wrapper:hover
+{
+    border-bottom: 1px solid black;
+
+}
+.Nav-Link-Wrapper a:hover
+{
+    color: black;
+
+
+}
+
+.Contact-Form
+{
+    display: flex;
+
+}
+
+input[type=text]
+{
+    width: 50%;
+    margin: 8px;
+    text-align: left;
+    box-sizing: border-box;
+}
+
